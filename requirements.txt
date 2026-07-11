@@ -1,0 +1,12 @@
+streamlit
+openai
+python-dotenv
+pypdf
+plotly
+reportlab
+pandas
+langchain-groq
+langchain-community
+langchain-core
+streamlit-lottie
+requests
