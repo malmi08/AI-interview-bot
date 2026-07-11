@@ -32,6 +32,6 @@ You can try out the live application here: [https://huggingface.co/spaces/nimash
 
 | Home Page | Chat Interface | Performance Report |
 | :--- | :--- | :--- |
-| ![Home](Screenshot%202026-07-11%20201244.png) | ![Chat](Screenshot%202026-07-11%20202253.png) | ![Report](Screenshot%202026-07-11%20202550.png) |
+| ![Home](images/Screenshot%202026-07-11%20201244.png) | ![Chat](images/Screenshot%202026-07-11%20202253.png) | ![Report](images/Screenshot%202026-07-11%20202550.png) |
 
 
